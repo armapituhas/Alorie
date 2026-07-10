@@ -11,7 +11,7 @@ async def init_db():
             description TEXT NOT NULL,
             created_at TEXT NOT NULL,
             meal TEXT,
-            calores INTEGER,
+            calories INTEGER,
             protein_g REAL,
             carbs_g REAL,
             fat_g REAL

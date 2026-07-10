@@ -10,3 +10,6 @@ A discord bot in progress - the goal is photo based food logging with AI estimat
 - Tag entries by meal (breakfast/lunch/dinner/snack)
 - Daily or weekly calorie goals
 - And more! 
+
+
+(the bot only works when i turn it on, i will be posting it on render or sumn when i finish it)

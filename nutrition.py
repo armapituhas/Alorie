@@ -31,7 +31,8 @@ async def estimate_nutrition(image_bytes: bytes, media_type: str, context: str =
         model="claude-sonnet-4-6",
         max_tokens=300,
         system=SYSTEM_PROMPT,
-        messages=[{"role": "user", "content": content}]
+        messages=[{"role": "user", "content": content}],
+        timeout=30.0
     )
 
     text = "".join(block.text for block in response.content if block.type == "text")

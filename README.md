@@ -7,13 +7,13 @@ A discord bot in progress - the goal is photo based food logging with AI estimat
 ## FEATURES!!
 
 - You can now log food from a photo, and get estimated calorie/macro breakdown
-- Daily and weekly goal calories
+- See everything logged today, calorie total, and goal progress
+- Estimate your daily calorie needs from height, weight, age, sex, and activity level (Mifflin-St Jeor formula); sets it as your daily goal automatically
 
 
 ## Planned features
 
-- Tag entries by meal (breakfast/lunch/dinner/snack)
-- And more! 
+- something ig liol 
 
 
 (the bot only works when i turn it on, i will be posting it on render or sumn when i finish it)
